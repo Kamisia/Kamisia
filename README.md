@@ -1,6 +1,6 @@
 # Hi I'm Kamila
 
-Frontend developer working with React and TypeScript, focused on building reliable and maintainable web applications.
+Frontend developer building reliable and maintainable web applications using React and TypeScript.
 
 I enjoy working on data-driven interfaces, API integrations, and improving how applications behave in real-world scenarios — especially where frontend development meets system behaviour and observability.
 
