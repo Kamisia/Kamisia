@@ -2,7 +2,7 @@
 
 Frontend developer building reliable and maintainable web applications using React and TypeScript.
 
-I enjoy working on data-driven interfaces, API integrations, and improving how applications behave in real-world scenarios — especially where frontend development meets system behaviour and observability.
+I work primarily on data-driven interfaces, API integrations, and improving how applications behave in real-world scenarios — especially where frontend development meets system behaviour and observability.
 
 My transition into software engineering comes from a scientific background, shaping an analytical approach to problem-solving and structured thinking about architecture and state management.
 
@@ -24,7 +24,7 @@ My transition into software engineering comes from a scientific background, shap
 Currently contributing to a production-oriented web application (private repository), where I:
 
 - build and maintain data-driven frontend features
-- integrate frontend with backend APIs and external systems
+- collaborate on API integration and data contracts
 - implement structured loading states and defensive error handling
 - focus on accessibility, responsiveness, and maintainable architecture
 
